@@ -1,0 +1,7 @@
+IoTHubUno.azure-devices.net
+
+HostName=IoTHubUno.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=vsxxQV2rz/zh027yORVhM37k5/CXUV/PUFnu6Q1TKVY=
+
+
+
+68qdrlken3MxNgU7kBvYgu84P1cJWuv5prsvnVkgaRg=
